@@ -1,0 +1,18 @@
+body {
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+.title {
+    color: blue;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
